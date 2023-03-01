@@ -1,0 +1,21 @@
+h1 {
+  font-size: 28px;
+  color: darkgreen;
+}
+h2 {
+  color: seagreen; 
+}
+h3,h4 {
+  color: rgb(54, 92, 54)
+}
+#first-page {
+  font-family: 'Gloock', serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.text-primary {
+  color: white;
+  background-color: black;
+  font-family: 'Gloock', serif;
+}
